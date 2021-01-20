@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-
+#asdfasf
 function main() {
   sanitize "${INPUT_ACCESS_KEY_ID}" "access_key_id"
   sanitize "${INPUT_SECRET_ACCESS_KEY}" "secret_access_key"
